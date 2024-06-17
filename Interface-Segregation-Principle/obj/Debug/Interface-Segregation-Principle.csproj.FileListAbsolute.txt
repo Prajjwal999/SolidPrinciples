@@ -1,0 +1,7 @@
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\obj\Debug\Interface-Segregation-Principle.csproj.AssemblyReference.cache
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\obj\Debug\Interface-Segregation-Principle.csproj.CoreCompileInputs.cache
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\bin\Debug\Interface-Segregation-Principle.exe.config
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\bin\Debug\Interface-Segregation-Principle.exe
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\bin\Debug\Interface-Segregation-Principle.pdb
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\obj\Debug\Interface-Segregation-Principle.exe
+C:\Users\Star Computer System\source\repos\Single-Repository-Principle\Interface-Segregation-Principle\obj\Debug\Interface-Segregation-Principle.pdb
